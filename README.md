@@ -1,31 +1,34 @@
-[![author](https://img.shields.io/badge/author-carlosfab-red.svg)](https://www.linkedin.com/in/carlosfab) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/carlosfab/data_science/issues)
-
-<p align="center">
-  <img src="banner.png" >
-</p>
-
 # Vinicius Cezario
-<sub>*Python programmer* </sub>
 
 I started in python in 2022, just to create a virtual assistant, because I didn't want to buy an Alexa. So I went in search of such knowledge, and that's when I entered the world of programming with python, and since 2022 I've been learning programming and evolving more and more.
 
-**Background in:** Python
-
-**Links:**
-* [LinkedIn](https://bit.ly/3ZmkFQY)
-
-
-
-## Projetos:
-Todos feitos por mim totalmente em Python:
-
-* **Miranda (Assistente virtual):** http://bit.ly/3ZuVBr7
-* **Gerador de senhas fortes:** http://bit.ly/3Y5e3Fp
-* **Quebrador de senhas:** http://bit.ly/3YaQYkK
-* **Piadas em Python:** http://bit.ly/3ELNL4j
+<br>
+<div style="display: inline_block"><br>
+  <p><strong>⁕ Languages Used ⁕</strong></p>
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
 
 
----
+<h2>Links</h2>
+
+<div align="left"> 
+  <a href="https://www.youtube.com/@typcals" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/typcal_solution" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:viniciusamcezario@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/vinicius-cezario-9b3013260" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+## 
+
+### Projects:
+* <a href="https://github.com/vinicezariodev/miranda">Miranda (Virtual Assistent)</a>
+* <a href="https://github.com/vinicezariodev/gerador-de-senhas-fortes">Password Generator</a>
+* <a href="https://github.com/vinicezariodev/quebrador-de-Senha">Password Cracker</a>
+* <a href="https://github.com/vinicezariodev/translator">Translator</a>
+* <a href="https://github.com/vinicezariodev/wi-fi-grabber">Wi-Fi Grabber</a>
+
+
+
 
 
 
